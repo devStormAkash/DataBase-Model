@@ -21,6 +21,12 @@ This repository aims to be a valuable resource for anyone looking to understand 
 
 ---
 
+## 📊 Visual Models
+
+You can explore the conceptual and logical designs of these database models visually using [Eraser.io](https://app.eraser.io/workspace/cLSvqSA5R8bIfiMRHUeg?origin=share). This workspace provides diagrams to help understand the relationships and structure at a glance.
+
+---
+
 ## 🛠️ Technologies & Tools
 
 While the focus is on database design principles, specific examples might utilize:
